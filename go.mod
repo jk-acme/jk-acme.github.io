@@ -1,6 +1,6 @@
-module github.com/hbstack/theme
+module github.com/jk-acme/jk-acme.github.io
 
-go 1.19
+go 1.23
 
 require (
 	github.com/GoogleChrome/workbox v7.3.0+incompatible // indirect
